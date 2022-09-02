@@ -138,6 +138,7 @@ public class Main {
                 System.out.println("Максимальное число - " + three);
             } else {
                 System.out.println("Все 3 числы равны ");
+
             }
         }
     }
